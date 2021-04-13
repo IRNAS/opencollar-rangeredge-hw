@@ -15,9 +15,9 @@ PCB view
  - Future changes:
 	- 
   
-Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/opencollar-rangeredge-hw/blob/master/Documentation).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-rhinoedge-tracker-hardware/releases) of the repository.
+Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/opencollar-rangeredge-hw/tree/master/Documentation/RangerEdge_V0.1_SCHEMATICS).Produced board versions can be found in the [release section](https://github.com/IRNAS/opencollar-rangeredge-hw/releases) of the repository.
 
-**Latest release: [v1.0](https://github.com/IRNAS/opencollar-rangeredge-hw/Documentation)**
+**Latest release: [v0.1](https://github.com/IRNAS/opencollar-rangeredge-hw/tree/master/Documentation)**
 
 
 All comments and suggestions can be added to the [Issues](https://github.com/IRNAS/opencollar-rangeredge-hw/issues) section of the repo.
