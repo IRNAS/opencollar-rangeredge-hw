@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: RangerEdge.PcbDoc   13. 04. 2021  08:19:26
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : RangerEdge_V0.1-RoundHoles.TXT
+ASCII SlotHoles File : RangerEdge_V0.1-SlotHoles.TXT
+EIA File   : RangerEdge_V0.1.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             26        PTH        0.00inch (0.00mm)
+T2      10mil (0.25mm)                                            Round             5         PTH        0.00inch (0.00mm)
+T3      12mil (0.3mm)                                             Round             1026      PTH        0.00inch (0.00mm)
+T4      32mil (0.8mm)                                             Slot              4         PTH        0.00inch (0.00mm)
+T5      39mil (1mm)                                               Round             4         PTH        0.00inch (0.00mm)
+T6      43mil (1.1mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T7      98mil (2.5mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T8      30mil (0.75mm)                                            Round             1         NPTH       0.00inch (0.00mm)
+T9      71mil (1.8mm)                                             Slot              1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1072
+
+Total Processing Time (hh:mm:ss) : 00:00:00
