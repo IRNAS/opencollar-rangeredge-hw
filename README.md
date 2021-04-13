@@ -6,7 +6,7 @@ PCB specifications:
 - 1.6mm PCB thickness
 - 0.127mm (5mil) trace to trace and trace to polygon clearance
 - 0.137mm RF line thickness
-- PCB dimensions 18x44.5x1mm
+- PCB dimensions 59.8mm x 95.8mm x 1.6mm
 
 PCB view
 <p align="center">
